@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+<!-- Configuration of  -->
+<>
+</>
+<!-- Configuration of section-with-dash -->
+<section-with-dash>
+	<key>value</key>
+</section-with-dash>
+<!-- Configuration of section.with.dots -->
+<section.with.dots>
+	<key>value</key>
+</section.with.dots>
+<!-- Configuration of section with spaces -->
+<section with spaces>
+	<key>value</key>
+</section with spaces>
+<!-- Configuration of section -->
+<section>
+	<key1>value1</key1>
+</section>
+<!-- Configuration of section -->
+<section>
+	<key2>value2</key2>
+</section>
+<!-- Configuration of equals_in_value -->
+<equals_in_value>
+	<key1>a=b=c</key1>
+	<key2>=start</key2>
+	<key3>end=</key3>
+</equals_in_value>
+<!-- Configuration of whitespace -->
+<whitespace>
+	<	key1>value1  ; key前有制表符</	key1>
+	<key2	>value2  ; key后有制表符</key2	>
+	<key3>	value3  ; 等号后有制表符</key3>
+	<key4>value4		; value后有制表符</key4>
+</whitespace>
+</configuration>

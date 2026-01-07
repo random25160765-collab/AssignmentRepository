@@ -128,7 +128,6 @@ int second_largest(int arr[], int length)
             second_max = arr[i];
         }
     } 
-
     return second_max;
 }
 
